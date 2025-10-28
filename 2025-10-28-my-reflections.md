@@ -1,4 +1,3 @@
-# 2025-10-28-my-reflections
 ---
 layout: post
 title: "我的感悟"
@@ -7,4 +6,3 @@ categories: [生活, 技术]
 ---
 
 这是我的第一段感悟内容。你可以在这里自由写作。
-
