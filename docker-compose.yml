@@ -1,0 +1,15 @@
+services:
+  jekyll:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    platform: linux/arm64/v8
+    working_dir: /srv/jekyll
+    command: ["jekyll", "serve", "--livereload", "--incremental", "--host", "0.0.0.0", "--port", "4000", "--livereload-port", "35729", "--force_polling"]
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll:delegated
+    environment:
+      JEKYLL_ENV: development
