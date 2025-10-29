@@ -31,7 +31,7 @@ categories: [编码, 技术]
 
 示意图：
 
-/db628c2f-edfe-4564-8358-0d1e506dcc76.png
+![示意图](./db628c2f-edfe-4564-8358-0d1e506dcc76.png)
 
 
 ### 代码示意
@@ -79,7 +79,7 @@ func AlignScoreIndices(scores []int) []int {
 
 ### **性能评估**
 
-/bc17744a-69c4-4672-b785-5acdf9f06884.png
+![性能评估](./bc17744a-69c4-4672-b785-5acdf9f06884.png)
 
 通过性能测试发现：
 
