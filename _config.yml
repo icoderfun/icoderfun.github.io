@@ -1,0 +1,26 @@
+title: icoderfun's Blog
+description: 记录技术与思考
+url: https://icoderfun.github.io
+baseurl: ""
+timezone: Asia/Shanghai
+lang: zh-CN
+
+# 使用 GitHub Pages 内置 minima 主题
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: icoderfun
+
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md

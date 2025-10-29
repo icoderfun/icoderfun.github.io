@@ -1,10 +1,8 @@
 ---
-layout: post
-title: "我的感悟"
-date: 2025-10-28 12:00:00 +0800
-categories: [生活, 技术]
+layout: page
+title: 已迁移
+permalink: /legacy/my-reflections/
 ---
 
-这是我的第一段感悟内容。你可以在这里自由写作。
-* 定期更新技术**博客**
-* 记录自己的感悟和想法。
+本文已迁移为博文，请访问首页查看或前往新地址：
+/2025/10/28/my-reflections.html
